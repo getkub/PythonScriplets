@@ -25,7 +25,7 @@ CONF_DIR                 =    module_path + '/configs'
 # *************************************************************************************
 # Script Parameters
 # *************************************************************************************
-CSV_FILE_IN_ABS         =     CONF_DIR + '/csv/SPLUNK_Environments.csv'
+CSV_FILE_IN_ABS         =     CONF_DIR + '/csv/allEnvProperties.csv'
 THIS_HOST               =     socket.gethostname() # socket.gethostname()
 # *************************************************************************************
 # Script Specific checks
