@@ -3,9 +3,15 @@ import time, logging
 import csv
 import os, sys, socket
 
+####
+####
+###  DO NOT RUN this script of its OWN. BUT use the Wrapper provided as separate script
+####
+####
+
 # =======================================================================================
 # Script to generate various Environment Parameters from CSV or external methods
-# Created     :         getkub  
+# Created     :         getkub@github
 program =    sys.argv[0]
 version =    "1"
 verdate =    "2014-02-22T13:02:00Z"
@@ -45,7 +51,6 @@ def env_Invalid():
 
 # ============================================================================
 # CSV loading
-# HostName,ServiceIP,MgmtIP,SERVERTYPE,ENV,Search_Peers
 # http://stackoverflow.com/questions/186916/configuration-file-with-list-of-key-value-pairs-in-python
 # ============================================================================
 
