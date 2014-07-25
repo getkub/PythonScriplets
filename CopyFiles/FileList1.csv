@@ -1,0 +1,6 @@
+#Source,Destination,Owner,Group,Permission,Description
+/home/getkub/file1.txt,/home/app/abc1.txt,wasadmin,wasgroup,744,Some Application File
+/home/getkub/file2.txt,/home/app/abc2.txt,root,root,644,Some Application File
+/home/getkub/file3.txt,/home/app/abc3.txt,root,root,755,Some Application File
+/home/getkub/file4.txt,/home/app/abc4.txt,root,root,444,Some Application File
+/home/getkub/file5.txt,/home/app/abc5.txt,root,root,744,Some Application File
