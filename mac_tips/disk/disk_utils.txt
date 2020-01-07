@@ -1,0 +1,2 @@
+# to Attach sparse-drive or drive
+hdiutil attach <sparse_drive_location>
